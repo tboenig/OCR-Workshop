@@ -59,7 +59,7 @@
 ## ABBYY example: Die Grenzboten (1841)
 
 * project done at Staats- und Universitätsbibliothek Bremen (Manfred Nölte)
-* digitization support (zoning, OCR, correction) by BBAW, Berlin (Geyken, Bönig, Haaf, Jurish, Thomas, Wiegand, Würzner)
+* digitization support (zoning, OCR, correction) by BBAW, Berlin (Geyken, Boenig, Haaf, Jurish, Thomas, Wiegand, Würzner)
 
 ![](images/grenzbot1841.png)\ 
 
